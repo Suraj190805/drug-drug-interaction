@@ -1,0 +1,31 @@
+drug_id,name,class,dose_mg,recommended_dose_mg
+1,Aspirin,NSAID,325,325
+2,Paracetamol,Analgesic,500,500
+3,Ibuprofen,NSAID,400,400
+4,Amoxicillin,Antibiotic,500,500
+5,Clopidogrel,Antiplatelet,75,75
+6,Metformin,Antidiabetic,500,500
+7,Atorvastatin,Statin,10,10
+8,Losartan,Antihypertensive,50,50
+9,Omeprazole,Antacid,20,20
+10,Cetirizine,Antihistamine,10,10
+11,Metoprolol,Beta Blocker,50,50
+12,Lisinopril,ACE Inhibitor,10,10
+13,Prednisolone,Corticosteroid,5,5
+14,Furosemide,Diuretic,40,40
+15,Levothyroxine,Thyroid Hormone,50,50
+16,Warfarin,Anticoagulant,5,5
+17,Ciprofloxacin,Antibiotic,250,250
+18,Insulin,Antidiabetic,10,10
+19,Doxycycline,Antibiotic,100,100
+20,Ranitidine,Antacid,150,150
+21,Azithromycin,Antibiotic,250,250
+22,Hydrochlorothiazide,Diuretic,25,25
+23,Propranolol,Beta Blocker,40,40
+24,Simvastatin,Statin,20,20
+25,Naproxen,NSAID,250,250
+26,Codeine,Opioid,30,30
+27,Pantoprazole,Antacid,40,40
+28,Morphine,Opioid,10,10
+29,Diclofenac,NSAID,50,50
+30,Fluoxetine,Antidepressant,20,20

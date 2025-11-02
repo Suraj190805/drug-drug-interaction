@@ -1,0 +1,11 @@
+drug_id_a,drug_id_b,severity,note
+1,2,1,Paracetamol + Ibuprofen → mild GI irritation
+1,3,0,Paracetamol + Caffeine → safe combo
+2,6,3,Ibuprofen + Aspirin → severe bleeding risk
+4,7,2,Amoxicillin + Metformin → GI side effects
+5,9,2,Cetirizine + Diphenhydramine → sedation risk
+6,17,2,Aspirin + Simvastatin → muscle stress
+7,18,2,Metformin + Amlodipine → sugar level drop
+8,12,1,Omeprazole + Ranitidine → absorption overlap
+9,10,3,Diphenhydramine + Dextromethorphan → strong sedation
+15,19,3,Lorazepam + Paroxetine → CNS depression
